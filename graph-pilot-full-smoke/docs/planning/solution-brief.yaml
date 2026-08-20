@@ -1,0 +1,24 @@
+solution_name: "graph pilot full smoke"
+repo_slug: "graph-pilot-full-smoke"
+description: |
+    API REST simples para validar WK2 até hub/deploy
+users: "consultores A&M"
+success_criteria: "Entregar valor para consultores A&M"
+has_user_interface: false
+needs_persistence: false
+project_nickname: "graph pilot full smoke"
+project_type: "Internal"
+client_code: ""
+charge_code: "P002675BR06.1.1"
+cost_owner: "pfroes@alvarezandmarsal.com"
+project_owner: "pfroes@alvarezandmarsal.com"
+garden_solution_id: "test-graph-pilot-forge-20260819"
+requester: "pfroes@alvarezandmarsal.com"
+monthly_budget: ""
+total_cost_budget: ""
+end_date: ""
+archetype: "AS2I"
+lifecycle: construcao
+created_at: "2026-08-20T01:52:36Z"
+intake_raw: |
+    API REST simples para validar WK2 até hub/deploy
