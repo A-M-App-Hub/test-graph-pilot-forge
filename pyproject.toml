@@ -3,3 +3,17 @@ name = "test-graph-pilot-forge"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = ["fastapi", "uvicorn"]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.28.1",
+    "mypy>=2.3.1",
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.16.3",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "."
+]
