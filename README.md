@@ -1,2 +1,2 @@
 # test-graph-pilot-forge
-Ephemeral repo for Conductor E2E smoke testing Garden Forge repo_url flow.
+Reflection smoke seed — validation_cycle 1, Can Deploy NO pre-seeded.

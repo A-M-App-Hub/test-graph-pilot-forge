@@ -1,6 +1,6 @@
 solution_name: test-graph-pilot-forge
-description: "E2E smoke — Conductor v1.2.16 Garden Forge repo_url"
+description: "Reflection smoke — Garden Forge repo_url + forced cycle 2"
 archetype: AS1I
 lifecycle: construcao
 requester: pfroes@alvarezandmarsal.com
-created_at: "2026-08-19T22:00:00Z"
+created_at: "2026-08-20T01:30:00Z"
