@@ -4,6 +4,7 @@ phase_index: 1
 phase_title: "Setup Base e Endpoint de Health"
 epic_title: "test-graph-pilot-forge"
 generated_at: "2023-10-25T12:00:00"
+status: done
 ---
 
 # Story: Setup Base e Endpoint de Health
@@ -14,10 +15,10 @@ Estruturação inicial do projeto backend. Criação da rota básica `/health` p
 
 ## Tasks
 
-- [ ] Inicializar estrutura básica da API
-- [ ] Configurar rotas e arquivo principal de execução
-- [ ] Criar endpoint GET `/health`
-- [ ] Adicionar testes unitários básicos para verificar inicialização
+- [x] Inicializar estrutura básica da API
+- [x] Configurar rotas e arquivo principal de execução
+- [x] Criar endpoint GET `/health`
+- [x] Adicionar testes unitários básicos para verificar inicialização
 
 ## Acceptance Criteria
 

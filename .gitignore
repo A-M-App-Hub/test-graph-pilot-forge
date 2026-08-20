@@ -1,0 +1,6 @@
+gitleaks-local.json
+trivy-local.json
+.coverage
+__pycache__/
+.venv/
+.pytest_cache/
