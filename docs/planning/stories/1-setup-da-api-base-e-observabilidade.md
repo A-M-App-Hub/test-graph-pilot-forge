@@ -4,6 +4,7 @@ phase_index: 1
 phase_title: "Setup da API Base e Observabilidade"
 epic_title: "test-graph-pilot-forge"
 generated_at: "$(date +%Y-%m-%dT%H:%M:%S)"
+status: done
 ---
 
 # Story: Setup da API Base e Observabilidade
